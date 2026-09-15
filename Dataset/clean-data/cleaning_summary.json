@@ -1,0 +1,12 @@
+{
+  "total_rows": 170427,
+  "total_columns": 57,
+  "late_orders": 97660,
+  "late_rate_pct": 57.3,
+  "total_sales": 34160776.25,
+  "total_profit": 3697094.97,
+  "revenue_at_risk": 19555003.66,
+  "abc_A_products": 84023,
+  "abc_B_products": 64046,
+  "abc_C_products": 22358
+}
